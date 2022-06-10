@@ -1,0 +1,532 @@
+{
+    "ProfessionalProfile": {
+        "profile": "Accomplished, Senior Software Developer with a background in .NET development (C# and VB), SQL server, ASP.NET, JavaScript, VBA and other legacy languages across the oil and gas, finance and facilities management industries."
+    },
+    "PersonalDetails": {
+        "name": "Gary Newell",
+        "address": "Inverurie, Aberdeenshire",
+        "telephone": "07506 037278",
+        "email": "gary.newelluk@gmail.com",
+        "role": "Senior Software Developer"
+    },
+    "Skills": [
+        {
+          "skillId": 1,
+          "skillName": "Web development (ASP.NET, C#, JavaScript, AngularJS, KnockoutJS, HTML, CSS)",
+          "sortOrder": 1
+        },
+        {
+          "skillId": 2,
+          "skillName": "Applications development (VB.NET, C#, NodeJS, Excel VBA)",
+          "sortOrder": 2
+        },
+        {
+          "skillId": 3,
+          "skillName": "Database development (SQL Server, Oracle)",
+          "sortOrder": 3
+        },
+        {
+          "skillId": 4,
+          "skillName": "Legacy development (VB6)",
+          "sortOrder": 4
+        },
+        {
+          "skillId": 5,
+          "skillName": "Other (git, TFS, Jira, Bitbucket, Azure)",
+          "sortOrder": 5
+        }
+      ],
+      "Jobs": [
+        {
+          "id": 1,
+          "startDate": "November 2020",
+          "endDate": "Current",
+          "companyName": "Baillie Gifford",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Edinburgh",
+          "outline": "Software developer working in the continuous improvements team, creating and enhancing web and desktop applications.",
+          "keyResponsibilities": [
+            {          
+              "id": 1,
+              "jobId": 1,
+              "responsibility": "Developed small enhancements to a finance web application utilising C#.NET, KnockoutJS and Oracle PL/SQL.",
+              "sortOrder": 1        
+            },
+            {          
+              "id": 2,
+              "jobId": 1,
+              "responsibility": "Developed enhancements to an integration service developed in C#.NET and utilising Oracle PL/SQL to take data from various data sources and upload the data into other data sources.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 1,
+              "responsibility": "Added the ability to utilise the Docman API to submit documents into Docman Connect, replacing the existing method.",
+              "sortOrder": 3
+            }
+          ],
+          "sortOrder": 1,
+          "pageBreakAfter": false
+        },
+        {
+          "id": 2,
+          "startDate": "April 2016",
+          "endDate": "November 2020",
+          "companyName": "City Facilities Management",
+          "roleType": "Contract",
+          "role": "Tech Lead / Software Developer",
+          "location": "Glasgow",
+          "outline": "Senior web and software developer working on a helpdesk and supply chain system supporting large retail customers facilities management needs.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 2,
+              "responsibility": "Developed major enhancements including a quotes module, parts request management, invoicing module and incident management to the Mercury facilities management web application using C#, AngularJS, TypeScript and SQL.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 2,
+              "responsibility": "Developed and maintained an application to take finance information from the Mercury facilities management system and upload it to Infor’s Sun Financials accounting system utilising C# and SQL.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 2,
+              "responsibility": "Maintained legacy facilities management systems using VB6 and SQL.",
+              "sortOrder": 3
+            }
+          ],
+          "sortOrder": 2,
+          "pageBreakAfter": false
+        }
+        ,
+        {
+          "id": 3,
+          "startDate": "February 2016",
+          "endDate": "April 2016",
+          "companyName": "Royal Bank Of Scotland",
+          "roleType": "Contract",
+          "role": "Technical Analyst",
+          "location": "Edinburgh",
+          "outline": "Assisted in the delivery of a project within the Royal Bank of Scotland to implement regulatory requirements which require all banks to show the data lineage of all their systems.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 3,
+              "responsibility": "Liaised with the heads of different departments to find out what software they used and the reports that were produced from the departments.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 3,
+              "responsibility": "Traced the lineage of reports to show where the information first came from by analysing the source code of each piece of software that was responsible for building up the data on the reports. This involved reading code in various software languages including SQL, Java, Oracle, DB2, COBOL and VB6.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 3,
+          "pageBreakAfter": false
+        }
+        ,
+        {
+          "id": 4,
+          "startDate": "March 2015",
+          "endDate": "February 2016",
+          "companyName": "HP / HPE",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Aberdeen",
+          "outline": "Developed enhancements, provided bug fixes and supported the hydrocarbon accounting system for Nexen.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 4,
+              "responsibility": "Developed enhancements and bug fixes to a hydrocarbon accounting system utilising C# and ASP.NET.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 4,
+              "responsibility": "Traced the lineage of reports to show where the information first came from by analysing the source code of each piece of software that was responsible for building up the data on the reports. This involved reading code in various software languages including SQL, Java, Oracle, DB2, COBOL and VB6.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 4,
+          "pageBreakAfter": false
+        }
+        ,
+        {
+          "id": 5,
+          "startDate": "June 2010",
+          "endDate": "March 2015",
+          "companyName": "Aventa Systems",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Aberdeen",
+          "outline": "Designed and developed a scorecard metric system called Focus and aided with the design and development of the SigmaT hydrocarbon accounting, allocation and reporting system for Talisman.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 5,
+              "responsibility": "Designed and developed a data warehouse and web solution for producing scorecards using SQL server, C# and SharePoint.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 5,
+              "responsibility": "Designed and developed an MI reporting tool using Excel and VBA to produce monthly reports for the Talisman management team known as the JAM book.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 5,
+              "responsibility": "Designed and developed the Sigma T hydrocarbon accounting system using VB.NET, WinForms and SQL Server.",
+              "sortOrder": 3
+            }
+          ],
+          "sortOrder": 5,
+          "pageBreakAfter": false
+        }
+        ,
+        {
+          "id": 6,
+          "startDate": "Jan 2009",
+          "endDate": "June 2010",
+          "companyName": "Petrofac Training",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Aberdeen",
+          "outline": "Designed and developed a training course system for Petrofac Training and helped migrate data to a new ERP system.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 6,
+              "responsibility": "Developed an online booking system for Petrofac Training using ASP.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 6,
+              "responsibility": "Developed a series of add-ons to Great Plains and the Agora training system using C# and VBA.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 6,
+              "responsibility": "Developed the offshore emergency response system using Excel and VBA.",
+              "sortOrder": 3
+            },
+            {
+              "id": 4,
+              "jobId": 6,
+              "responsibility": "Developed SSRS reports, provided DBA support and helped migrate data to the new ERP system. ",
+              "sortOrder": 4
+            }
+          ],
+          "sortOrder": 6,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 7,
+          "startDate": "Dec 2008",
+          "endDate": "Jan 2009",
+          "companyName": "Aventa Systems",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Aberdeen",
+          "outline": "Designed and developed a KPI dashboard for the Synergi risk management software.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 7,
+              "responsibility": "Designed and developed a KPI dashboard for the Synergi risk management software utilising C#, ASP.NET, HTML, CSS and JavaScript.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 7,
+              "responsibility": "Developed a bespoke charting tool.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 7,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 8,
+          "startDate": "Feb 2008",
+          "endDate": "Dec 2008",
+          "companyName": "SAIC",
+          "roleType": "Contract",
+          "role": "SQL Server DBA",
+          "location": "Aberdeen",
+          "outline": "Supported production database servers for BP, Talisman and SAIC.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 8,
+              "responsibility": "Performed daily maintenance checks on the SQL servers for BP, Talisman and SAIC.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 8,
+              "responsibility": "Performed audits on SQL Servers.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 8,
+              "responsibility": "Created DBA guides for the SQL Servers.",
+              "sortOrder": 3
+            },
+            {
+              "id": 4,
+              "jobId": 8,
+              "responsibility": "Developed house keeping scripts using VBScript and Perl to automate the management of servers.",
+              "sortOrder": 4
+            },
+            {
+              "id": 5,
+              "jobId": 8,
+              "responsibility": "Designed and delivered a SQL Server training course to train junior DBAs and Oracle DBAs so that they could support SQL Server.",
+              "sortOrder": 5
+            }
+          ],
+          "sortOrder": 8,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 9,
+          "startDate": "Jun 2007",
+          "endDate": "Feb 2008",
+          "companyName": "Synergi",
+          "roleType": "Contract",
+          "role": "Technical Consultant",
+          "location": "Aberdeen",
+          "outline": "Developed, implemented and supported enhancements to the Synergi risk management software for various customers including Talisman and KCA Deutag.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 9,
+              "responsibility": "Conducted workshops, gathered feature requirements, planned software enhancements.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 9,
+              "responsibility": "Developed enhancements to the Synergi software using C#, VBA, HTML, CSS.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 9,
+              "responsibility": "Installed SQL Server and Oracle versions of Synergi.",
+              "sortOrder": 3
+            },
+            {
+              "id": 4,
+              "jobId": 9,
+              "responsibility": "Developed house keeping scripts using VBScript and Perl to automate the management of servers.",
+              "sortOrder": 4
+            },
+            {
+              "id": 5,
+              "jobId": 9,
+              "responsibility": "Designed and delivered a SQL Server training course to train junior DBAs and Oracle DBAs so that they could support SQL Server.",
+              "sortOrder": 5
+            }
+          ],
+          "sortOrder": 9,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 10,
+          "startDate": "Feb 2007",
+          "endDate": "Jun 2007",
+          "companyName": "Williams Lea",
+          "roleType": "Contract",
+          "role": "SQL Developer",
+          "location": "Stirling",
+          "outline": "Developed data scripts to fix data issues with the bespoke mail scanning system provided by Williams Lea",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 10,
+              "responsibility": "Analysed the data integrity of the Williams Lea mail scanning database.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 10,
+              "responsibility": "Created data fix scripts using SQL.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 10,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 11,
+          "startDate": "Oct 2006",
+          "endDate": "Feb 2007",
+          "companyName": "Conchango",
+          "roleType": "Contract",
+          "role": "SQL Developer",
+          "location": "Aberdeen",
+          "outline": "Created the database test scripts to test the data scraped from various sources into a KPI dashboard within Chevron.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 11,
+              "responsibility": "Created SQL scripts to retrieve the values of data scraped from various databases, PDFs and Excel spreadsheets.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 11,
+              "responsibility": "Created SQL scripts to compare the data in the staging tables with the data in the data warehouse.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 11,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 12,
+          "startDate": "Nov 1998",
+          "endDate": "Oct 2006",
+          "companyName": "Infor",
+          "roleType": "Contract",
+          "role": "Software Developer",
+          "location": "Farnborough",
+          "outline": "Senior software developer responsible for developing the Sun Accounts and supply chain software.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 12,
+              "responsibility": "Created the desktop front end for Sun Accounts version 5 using C++.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 12,
+              "responsibility": "Created enhancements to the Sun Accounts version 4 and 5 software using C++, COBOL, SQL server and Oracle.",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "jobId": 12,
+              "responsibility": "Developed UNIX shell scripts for implementing Sun Accounts on UNIX servers.",
+              "sortOrder": 3
+            }
+          ],
+          "sortOrder": 12,
+          "pageBreakAfter": false
+        }   
+        ,
+        {
+          "id": 13,
+          "startDate": "Jun 1995",
+          "endDate": "Nov 1998",
+          "companyName": "IBM",
+          "roleType": "Contract",
+          "role": "Team Lead / Software Developer",
+          "location": "London",
+          "outline": "Started as a junior developer and ended up as a team lead of a group of 6 developers responsible for creating a unit trust dealing and administration system called THREADS.",
+          "keyResponsibilities": [
+            {
+              "id": 1,
+              "jobId": 13,
+              "responsibility": "Lead a team of 6 people providing enhancements for the TSB version of THREADS.",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "jobId": 13,
+              "responsibility": "Designed and developed enhancements to THREADS using COBOL, CICS, JCL and TSO.",
+              "sortOrder": 2
+            }
+          ],
+          "sortOrder": 13,
+          "pageBreakAfter": false
+        }   
+      ],
+      "schools": [
+        {
+          "id": 1,
+          "schoolName": "Farnborough College Of Technology",
+          "location": "Farnborough",
+          "startDate": "September 1993",
+          "endDate": "June 1995",
+          "qualification": "BTEC Higher National Diploma In Computing And European Business",
+          "grades": [],
+          "sortOrder": 1,
+          "pageBreakAfter": false
+        },
+        {
+          "id": 2,
+          "schoolName": "Farnborough College Of Technology",
+          "location": "Farnborough",
+          "startDate": "September 1991",
+          "endDate": "June 1993",
+          "qualification": "BTEC National Diploma In Computing And European Business",
+          "grades": [],
+          "sortOrder": 2,
+          "pageBreakAfter": false
+        },
+        {
+          "id": 3,
+          "schoolName": "Mill Chase Community School",
+          "location": "Bordon",
+          "startDate": "September 1986",
+          "endDate": "June 1991",
+          "qualification": "GCSEs",
+          "grades": [
+            {
+              "id": 1,
+              "schoolId": 3,
+              "subject": "Maths",
+              "result": "C",
+              "sortOrder": 1
+            },
+            {
+              "id": 2,
+              "schoolId": 3,
+              "subject": "English Literature",
+              "result": "C",
+              "sortOrder": 2
+            },
+            {
+              "id": 3,
+              "schoolId": 3,
+              "subject": "English Language",
+              "result": "C",
+              "sortOrder": 3
+            },
+            {
+              "id": 4,
+              "schoolId": 3,
+              "subject": "Music",
+              "result": "C",
+              "sortOrder": 4
+            }
+          ],
+          "sortOrder": 3,
+          "pageBreakAfter": false
+        }
+      ],
+      "hobbies": {
+       "hobby": "I have written for About.com and Lifewire.com as a Linux enthusiast and I have written blogs about Linux and the Raspberry PI."
+    },
+    "references": {
+        "details": "References are available upon request."
+    }   
+}
