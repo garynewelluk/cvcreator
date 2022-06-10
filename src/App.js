@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Header/>
       <Routes>
-        <Route path='/' element={<StartPage />} />
+        <Route path='https://garynewelluk.github.io/cvcreator/' element={<StartPage />} />
         <Route path='/CreateCV' element={<CreateCV />} />
         <Route path='/SampleResumeGenerator' element={<SampleResumeGenerator />} />        
         <Route path='/LoadCV' element={<LoadResumeGenerator />} />
