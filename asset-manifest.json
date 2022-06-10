@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cvcreator/static/css/main.d480b545.chunk.css",
-    "main.js": "/cvcreator/static/js/main.f44c532f.chunk.js",
-    "main.js.map": "/cvcreator/static/js/main.f44c532f.chunk.js.map",
+    "main.css": "/cvcreator/static/css/main.d4af1ec4.chunk.css",
+    "main.js": "/cvcreator/static/js/main.735ac44b.chunk.js",
+    "main.js.map": "/cvcreator/static/js/main.735ac44b.chunk.js.map",
     "runtime-main.js": "/cvcreator/static/js/runtime-main.056e9ba6.js",
     "runtime-main.js.map": "/cvcreator/static/js/runtime-main.056e9ba6.js.map",
     "static/js/2.625b459c.chunk.js": "/cvcreator/static/js/2.625b459c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.fd1f8046.chunk.js": "/cvcreator/static/js/3.fd1f8046.chunk.js",
     "static/js/3.fd1f8046.chunk.js.map": "/cvcreator/static/js/3.fd1f8046.chunk.js.map",
     "index.html": "/cvcreator/index.html",
-    "static/css/main.d480b545.chunk.css.map": "/cvcreator/static/css/main.d480b545.chunk.css.map",
+    "static/css/main.d4af1ec4.chunk.css.map": "/cvcreator/static/css/main.d4af1ec4.chunk.css.map",
     "static/js/2.625b459c.chunk.js.LICENSE.txt": "/cvcreator/static/js/2.625b459c.chunk.js.LICENSE.txt",
     "static/media/AddGrade.cb4431bc.PNG": "/cvcreator/static/media/AddGrade.cb4431bc.PNG",
     "static/media/EducationSample.460de67f.PNG": "/cvcreator/static/media/EducationSample.460de67f.PNG",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.056e9ba6.js",
     "static/js/2.625b459c.chunk.js",
-    "static/css/main.d480b545.chunk.css",
-    "static/js/main.f44c532f.chunk.js"
+    "static/css/main.d4af1ec4.chunk.css",
+    "static/js/main.735ac44b.chunk.js"
   ]
 }
