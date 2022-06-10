@@ -7,7 +7,7 @@ const StartPage = () => {
         <div className="StartPage">
             <h1 className="MainHeader">Free Online CV Generator</h1>            
             <div id="Main">
-                <a href="/CreateCV">
+                <a href="/cvcreator/CreateCV">
                 <div className="box">
                     <h1>Create A CV From Scratch</h1>
                     <p>
@@ -18,7 +18,7 @@ const StartPage = () => {
                     </p>
                 </div>
                 </a>
-                <a href="/SampleResumeGenerator">
+                <a href="/cvcreator/SampleResumeGenerator">
                 <div className="box">
                     <h1>Create A CV Using Sample Data</h1>
                     <p>
@@ -29,7 +29,7 @@ const StartPage = () => {
                     </p>
                 </div>
                 </a>
-                <a href="/LoadCV">
+                <a href="/cvcreator/LoadCV">
                 <div className="box">
                     <h1>Load A CV</h1>
                     <p>
@@ -39,7 +39,7 @@ const StartPage = () => {
                 </a>
             </div>
             <div id="Main">
-                <a href="/UserGuide">
+                <a href="/cvcreator/UserGuide">
                 <div className="box">
                     <h1>User Guide</h1>
                     <p>
