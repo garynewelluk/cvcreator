@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cvcreator/static/css/main.d4af1ec4.chunk.css",
-    "main.js": "/cvcreator/static/js/main.1de6315e.chunk.js",
-    "main.js.map": "/cvcreator/static/js/main.1de6315e.chunk.js.map",
+    "main.js": "/cvcreator/static/js/main.707d8fed.chunk.js",
+    "main.js.map": "/cvcreator/static/js/main.707d8fed.chunk.js.map",
     "runtime-main.js": "/cvcreator/static/js/runtime-main.056e9ba6.js",
     "runtime-main.js.map": "/cvcreator/static/js/runtime-main.056e9ba6.js.map",
-    "static/js/2.1d373c53.chunk.js": "/cvcreator/static/js/2.1d373c53.chunk.js",
-    "static/js/2.1d373c53.chunk.js.map": "/cvcreator/static/js/2.1d373c53.chunk.js.map",
+    "static/js/2.c778527b.chunk.js": "/cvcreator/static/js/2.c778527b.chunk.js",
+    "static/js/2.c778527b.chunk.js.map": "/cvcreator/static/js/2.c778527b.chunk.js.map",
     "static/js/3.fd1f8046.chunk.js": "/cvcreator/static/js/3.fd1f8046.chunk.js",
     "static/js/3.fd1f8046.chunk.js.map": "/cvcreator/static/js/3.fd1f8046.chunk.js.map",
     "index.html": "/cvcreator/index.html",
     "static/css/main.d4af1ec4.chunk.css.map": "/cvcreator/static/css/main.d4af1ec4.chunk.css.map",
-    "static/js/2.1d373c53.chunk.js.LICENSE.txt": "/cvcreator/static/js/2.1d373c53.chunk.js.LICENSE.txt",
+    "static/js/2.c778527b.chunk.js.LICENSE.txt": "/cvcreator/static/js/2.c778527b.chunk.js.LICENSE.txt",
     "static/media/AddGrade.cb4431bc.PNG": "/cvcreator/static/media/AddGrade.cb4431bc.PNG",
     "static/media/EducationSample.460de67f.PNG": "/cvcreator/static/media/EducationSample.460de67f.PNG",
     "static/media/EducationSampleAdd.fa3bdf71.PNG": "/cvcreator/static/media/EducationSampleAdd.fa3bdf71.PNG",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.056e9ba6.js",
-    "static/js/2.1d373c53.chunk.js",
+    "static/js/2.c778527b.chunk.js",
     "static/css/main.d4af1ec4.chunk.css",
-    "static/js/main.1de6315e.chunk.js"
+    "static/js/main.707d8fed.chunk.js"
   ]
 }
