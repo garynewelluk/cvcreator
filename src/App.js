@@ -15,11 +15,11 @@ function App() {
       <Header/>
       <Routes>
         <Route path='https://garynewelluk.github.io/cvcreator/' element={<StartPage />} />
-        <Route path='/CreateCV' element={<CreateCV />} />
-        <Route path='/SampleResumeGenerator' element={<SampleResumeGenerator />} />        
-        <Route path='/LoadCV' element={<LoadResumeGenerator />} />
-        <Route path='/UserGuide' element={<UserGuide />} />
-        <Route path='/About' element={<About />} />
+        <Route path='https://garynewelluk.github.io/cvcreator/CreateCV' element={<CreateCV />} />
+        <Route path='https://garynewelluk.github.io/cvcreator/SampleResumeGenerator' element={<SampleResumeGenerator />} />        
+        <Route path='https://garynewelluk.github.io/cvcreator/LoadCV' element={<LoadResumeGenerator />} />
+        <Route path='https://garynewelluk.github.io/cvcreator/UserGuide' element={<UserGuide />} />
+        <Route path='https://garynewelluk.github.io/cvcreator/About' element={<About />} />
       </Routes>  
     </Router>
   );
